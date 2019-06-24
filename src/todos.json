@@ -1,0 +1,25 @@
+{
+"todos": [  
+    {
+"title": "City",
+"responsable": "Oaxaca",
+"description": "Mexico",
+"priority": "Queretaro"
+    },
+    {
+"title": "Drinks",
+"responsable": "Café",
+"description": "Tequila",
+"priority": "Vodka"
+    },
+
+ {
+        "title": "Friends",
+        "responsable": "Joseph",
+        "description": "Laura",
+        "priority": "Enrique"
+            }
+
+        ]
+
+}
